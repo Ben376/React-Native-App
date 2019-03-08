@@ -1,6 +1,6 @@
-# TestApp
+# Find the Best Talent
 
-Little react native app to test some of its functionalities like navigation or combine it with react. 
+App to found the best talent, make a favorite list, access to the latest profile, and eventually hire!
 
 ## Getting Started
 
